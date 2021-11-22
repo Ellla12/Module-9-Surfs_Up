@@ -7,9 +7,9 @@ The purpose of Module 9 is to put together an analysis of the weather on Oahu fo
 In the challenge for this module, W. Avy wants more information about temperature trends, so before opening the surf shop we are tasked to put together temperature data for the months of June and December in Oahu.
 
 ## Results:
-![June Statistics](https://github.com/Ellla12/Module-9-Surfs_Up/junestatistics.PNG)
+![June Statistics](https://github.com/Ellla12/Module-9-Surfs_Up/blob/main/junestatistics.PNG)
 
-![December Statistics](https://github.com/Ellla12/Module-9-Surfs_Up/decemberstatistics.PNG)
+![December Statistics](https://github.com/Ellla12/Module-9-Surfs_Up/blob/main/decemberstatistics.PNG)
 
 From comparing the temperature data for months June and December, we can conclude that Oahu's temperature is constant and stays in the 70 degrees range. We can conclude that the weather in the winter months won't have a large impact on the surf shop, as the lowest temperature in December was 56 degrees.
 
